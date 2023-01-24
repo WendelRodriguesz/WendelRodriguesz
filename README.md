@@ -17,10 +17,8 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 
 ### Banco de dados
 ![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) 
-![postgreSQL](https://user-images.githubusercontent.com/78397162/155826205-3533b5ec-b4ca-4285-887f-10e50be40e01.png) 
 
 ### Demais Tecnologias
-![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
 ![branch](https://user-images.githubusercontent.com/92812573/214386330-081818c4-d4a2-46ff-88b2-ecde66feafe0.png)
 ![git (2)](https://user-images.githubusercontent.com/92812573/214386450-5c10ccf1-c8b6-4e90-97eb-ec9a4f13e4db.png)
 
