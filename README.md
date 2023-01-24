@@ -7,7 +7,7 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 ### Front-End
 ![html5](https://user-images.githubusercontent.com/78397162/155825880-32f15bdb-e223-40b4-8088-d51f7b4e15cc.png) 
 ![css3](https://user-images.githubusercontent.com/78397162/155825874-3ca8c832-e628-4e57-9250-48705fae1b68.png) 
-![js](https://user-images.githubusercontent.com/78397162/155826429-78a9aeb8-7f02-438b-9a2d-fab79870426b.png) 
+![js](https://user-images.githubusercontent.com/92812573/214384662-8fb2e7cc-efde-4ffc-96ac-7592b93c00be.png)
 
 ### Back-End
 ![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png) 
