@@ -7,13 +7,13 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 ### Front-End
 ![html5](https://user-images.githubusercontent.com/78397162/155825880-32f15bdb-e223-40b4-8088-d51f7b4e15cc.png) 
 ![css3](https://user-images.githubusercontent.com/78397162/155825874-3ca8c832-e628-4e57-9250-48705fae1b68.png) 
-![js (1)](https://user-images.githubusercontent.com/92812573/214384762-c881338e-6a4e-4cae-a01e-3e2079250be3.png)
+![js](https://user-images.githubusercontent.com/78397162/155826429-78a9aeb8-7f02-438b-9a2d-fab79870426b.png) 
 
 ### Back-End
 ![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png) 
 ![python](https://user-images.githubusercontent.com/78397162/155826010-296b3548-0899-4cb1-a396-6cc4af0791f6.png)
-![java]()
-![c]()
+![letter-c](https://user-images.githubusercontent.com/92812573/214385135-75875255-b0d4-4b2a-95fe-054f1593ba89.png)
+![java](https://user-images.githubusercontent.com/92812573/214385309-accf1019-71f9-4cd3-8823-8a9499beac9d.png)
 
 ### Banco de dados
 ![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) 
