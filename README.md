@@ -13,7 +13,7 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 ![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png) 
 ![python](https://user-images.githubusercontent.com/78397162/155826010-296b3548-0899-4cb1-a396-6cc4af0791f6.png)
 ![letter-c](https://user-images.githubusercontent.com/92812573/214385135-75875255-b0d4-4b2a-95fe-054f1593ba89.png)
-![java](https://user-images.githubusercontent.com/92812573/214385309-accf1019-71f9-4cd3-8823-8a9499beac9d.png)
+![java (1)](https://user-images.githubusercontent.com/92812573/214385448-0c7d6a16-2a88-48de-936d-f4023672a901.png)
 
 ### Banco de dados
 ![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) 
@@ -21,8 +21,8 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 
 ### Demais Tecnologias
 ![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
-![git (1)](https://user-images.githubusercontent.com/92812573/214384308-adda12bd-f5ee-4d44-8008-622a16fbab86.png)
-
+![branch](https://user-images.githubusercontent.com/92812573/214386330-081818c4-d4a2-46ff-88b2-ecde66feafe0.png)
+![git (2)](https://user-images.githubusercontent.com/92812573/214386450-5c10ccf1-c8b6-4e90-97eb-ec9a4f13e4db.png)
 
 
 
