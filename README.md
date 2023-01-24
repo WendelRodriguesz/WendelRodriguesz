@@ -13,7 +13,8 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 ### Back-End
 ![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png) 
 ![python](https://user-images.githubusercontent.com/78397162/155826010-296b3548-0899-4cb1-a396-6cc4af0791f6.png)
-![java]()
+![java](https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg)
+![c](https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)
 
 ### Banco de dados
 ![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) 
@@ -21,7 +22,7 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 
 ### Demais Tecnologias
 ![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
-![git]()
+![git](https://w7.pngwing.com/pngs/705/814/png-transparent-github-repository-commit-bitbucket-github-angle-orange-logo.png)
 
 
 <br>
