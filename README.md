@@ -21,7 +21,8 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 
 ### Demais Tecnologias
 ![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
-![git](user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png)
+![git](https://user-images.githubusercontent.com/92812573/214383982-2c7a1318-e477-4a6c-8524-8df352da4b29.png)
+
 
 
 <br>
