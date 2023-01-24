@@ -1,8 +1,7 @@
-# Hello, Welcome to my world! 🌐
+# Iae, bem vindxs a aréa de um garoto de programas 👨‍💻
 Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduando em Engenharia de Software pela UFC. Atualmente estou estudando com foco em me tornar um desenvolvedor full-stack.
 
-* Café e programação é a essência da vida ❤️
-* Se precisar de ajuda, pode olhar meus repositórios 🖥️
+* Um café sempre é bom ☕
 
 ## Tecnologias e Linguagens
 ### Front-End
@@ -13,8 +12,8 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 ### Back-End
 ![php](https://user-images.githubusercontent.com/78397162/155825931-5f76697a-58fd-494b-a148-3c5f9bc460b6.png) 
 ![python](https://user-images.githubusercontent.com/78397162/155826010-296b3548-0899-4cb1-a396-6cc4af0791f6.png)
-![java](https://img2.gratispng.com/20180805/iot/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766ab2d98b8.1809687115335031471868.jpg)
-![c](https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg)
+![java]()
+![c]()
 
 ### Banco de dados
 ![mysql](https://user-images.githubusercontent.com/78397162/155826202-71e27deb-1ad9-4811-a3fc-1c42e38990fa.png) 
@@ -22,7 +21,7 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 
 ### Demais Tecnologias
 ![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
-![git](https://www.flaticon.com/free-icon/branch_6702337?term=git&page=1&position=47&origin=search&related_id=6702337)
+![git]()
 
 
 <br>
