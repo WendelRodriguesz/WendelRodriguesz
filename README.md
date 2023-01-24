@@ -22,7 +22,7 @@ Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduan
 
 ### Demais Tecnologias
 ![docker](https://user-images.githubusercontent.com/78397162/155826215-db666558-86af-49ea-8f13-5ac880ca5bbe.png) 
-![git](https://w7.pngwing.com/pngs/705/814/png-transparent-github-repository-commit-bitbucket-github-angle-orange-logo.png)
+![git](https://www.flaticon.com/free-icon/branch_6702337?term=git&page=1&position=47&origin=search&related_id=6702337)
 
 
 <br>
