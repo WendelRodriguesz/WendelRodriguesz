@@ -1,4 +1,4 @@
-# Iae, bem vindxs a aréa de um garoto de programas 👨‍💻
+# Olá seja bem vindx a aréa de programas 👨‍💻
 Pode me chamar de Endel :), sou desenvolvedor Back-End (Python e Java) e graduando em Engenharia de Software pela UFC. Atualmente estou estudando com foco em me tornar um desenvolvedor full-stack.
 
 * Um café sempre é bom ☕
