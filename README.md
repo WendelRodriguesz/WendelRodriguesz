@@ -4,6 +4,7 @@
 
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
 <p align="left">Pode me chamar de Endel :), sou desenvolvedor Full Stack e graduando em Engenharia de Software pela UFC.
+  
 ###
 
 <div align="center">
@@ -41,7 +42,7 @@
 </div>
 
 ###
-<p>Toda hora é hora do café ☕</p>
+<h3>Toda hora é hora do café ☕</h3>
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/WendelRodriguesz/WendelRodriguesz/output/snake.svg" alt="Snake animation" />
