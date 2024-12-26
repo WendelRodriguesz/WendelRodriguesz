@@ -4,6 +4,7 @@
 
 <p align="left">Pode me chamar de Endel :), sou desenvolvedor Full Stack e graduando em Engenharia de Software pela UFC.<br><br>Um café sempre é bom ☕</p>
 <img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  />
+
 ###
 
 <div align="center">
