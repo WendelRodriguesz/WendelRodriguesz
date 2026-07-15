@@ -1,4 +1,4 @@
-<h1>Olá devs, eu sou o <a href="https://www.linkedin.com/in/-endel/">Wendel</a> 👋</h1>
+<h1>Olá devs, eu sou o <a href="https://www.linkedin.com/in/wendelrodriguesz/">Wendel</a> 👋</h1>
 <p><img align="right" height="150" padding="10" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif"  /></p>
 <p>Ou, como muitos me chamam, <strong>Endel</strong> :) Sou cearense, apaixonado por tecnologia e desenvolvimento de software. Atualmente sou <strong>graduando em Engenharia de Software</strong> pela <em>Universidade Federal do Ceará</em> e atuo como <strong>desenvolvedor Full Stack</strong>, explorando tanto o mundo do backend quanto o frontend.</p>
 
